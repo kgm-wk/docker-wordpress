@@ -43,3 +43,8 @@ php wp-cli.phar core install --url='localhost:8080' --title='たいとる' --adm
 - [MySQL database backup using MySQL Workbench and how to resolve a version mismatch error | Winhost blog](https://blog.winhost.com/mysql-database-backup-using-mysql-workbench-and-how-to-resolve-a-version-mismatch-error/)
 - [MySQLのWorkBentchからエクスポートしようとするとエラーになる](http://devlabo.blogspot.com/2013/06/mysqlworkbentch.html)
 - [MySQL :: Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+
+#### Windowsの場合
+1. MySQLをダウンロード&解凍
+1. MySQL WorkbenchのEdit > Preferencesを開く
+1. Workbench Preferences > AdministrationのPath to mysqldump Tool:に上記のmysqldump.exeを指定する
