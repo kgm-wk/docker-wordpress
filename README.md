@@ -33,3 +33,13 @@ php wp-cli.phar core install --url='localhost:8080' --title='たいとる' --adm
 
 ### WP-CLI
 - [Docker勉強](https://zenn.dev/hisho/scraps/69c78a6a81b51f)
+
+### MySQL Workbench
+### エクスポート、インポート、dump、ダンプ
+- [MySQL Workbenchのエクスポート・インポート手順 | マコブログ](https://macoblog.com/mysql-workbench-export/)
+- [データベースのImport・Export方法について(MySQL WorkBenchの場合) – ヘルプ - ロリポップ！マネージドクラウド](https://support.mc.lolipop.jp/hc/ja/articles/360033934213-%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEImport-Export%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-MySQL-WorkBench%E3%81%AE%E5%A0%B4%E5%90%88-)
+
+### mysqldump Version Mismatch
+- [MySQL database backup using MySQL Workbench and how to resolve a version mismatch error | Winhost blog](https://blog.winhost.com/mysql-database-backup-using-mysql-workbench-and-how-to-resolve-a-version-mismatch-error/)
+- [MySQLのWorkBentchからエクスポートしようとするとエラーになる](http://devlabo.blogspot.com/2013/06/mysqlworkbentch.html)
+- [MySQL :: Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
